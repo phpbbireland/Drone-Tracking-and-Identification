@@ -1,4 +1,4 @@
-# Drone-Tracking-and-Identification (22 August 2022)
+# Drone-Tracking-and-Identification
 
 This proposal moves the focus from tracking individual Drones to identifying and locating the pilot  using existing technology. In commercial (and beyond line of sight operations including long range FPV) Drones may require GPS in order to pinpoint their location. In non commercial use, Drone location would be within line of sight of the pilot.
 
@@ -28,3 +28,4 @@ A simple low cost method and infrastructure already exists, why reinvent the whe
 Identifying a drone can be achieved using a low cost methods available world wide, that is, almost every drone pilot has a mobile phone running Android or IOS and in incorporates Bluetooth (several existing RC controllers already support Bluetooth). At most a Bluetooth module will required, it should cost less than €10/$10 (ESP32 anyone)...
 
 ***Drone or Quads, Quad Copters, Helicopters and Airplane are interchangeable...***
+22 August 2022
