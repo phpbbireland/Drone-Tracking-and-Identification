@@ -26,6 +26,6 @@ Basically there is no need to log and register every drone a person owns, simply
 There's no need for additional complex and costly infrastructure...
 A simple low cost method and infrastructure already exists, why reinvent the wheel...
 
-Identifying a drone can be achieved using a low cost methods available world wide, that is, almost every drone pilot has a mobile phone running Android or IOS and in incorporates Bluetooth and some existing drones already support Bluetooth. 
+Identifying a drone can be achieved using a low cost methods available world wide, that is, almost every drone pilot has a mobile phone running Android or IOS and in incorporates Bluetooth and some existing RC controllers already support Bluetooth. 
 
 ***Drone or Quads, Quad Copters, Helicopters and Airplane are interchangeable...***
