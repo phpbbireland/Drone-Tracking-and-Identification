@@ -6,21 +6,21 @@ In this proposal the additional cost to individuals and authorities would be gre
 The costs to authorities would be minimal as the required technology and infrastructure already exists. As far as an individuals security is concerned, nothing would change.
 
 
-Advantages:
+***Advantages:***
 
     • Cost of implementing this method is far lower that currently proposed methods costing as little as $20 per pilot and lower costs for the relevant authorities... 
     • No additional infrastructure and its associated complexities and costs...
     • No additional costs as you buy/build additional Drones…
 
 
-Basic Operation:
+***Basic Operation:***
 
 Pilots binds their drone to their phone using Bluetooth (a once off operation). This allows the drone to transmit a unique ID or a registration number using Bluetooth during flight, thereby allowing for pilot/drone identification and location. Additionally, in classes where GPS is mandatory (possibly beyond line of sight), the actual location of the drone could be provided.
 
 Existing technologies allow for locating the pilot/drone by the relevant authorities using existing methods. The transmitted information could easily be encrypted if necessary thereby providing additional security.
 
 
-Summation:
+***Summation:***
 
 Basically there is no need to log and register every drone a person owns, simply register the pilot.
 There's no need for additional complex and costly infrastructure...
