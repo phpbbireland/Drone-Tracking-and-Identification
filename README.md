@@ -28,4 +28,4 @@ A simple low cost method and infrastructure already exists, why reinvent the whe
 
 Identifying a drone can be achieved using a low cost methods available world wide, that is, almost every drone pilot has a mobile phone running Android or IOS and in incorporates Bluetooth and some existing drones already support Bluetooth. 
 
-***Drone or Quads, Quad Copters, Helicopters and Airplane are interchangeable...
+***Drone or Quads, Quad Copters, Helicopters and Airplane are interchangeable...***
