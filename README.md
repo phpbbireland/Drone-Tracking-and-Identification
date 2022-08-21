@@ -1,9 +1,8 @@
-# Drone-Tracking-and-Identification
+# Drone-Tracking-and-Identification (22 August 2022)
 
 This proposal moves the focus from tracking individual Drones to identifying and locating the pilot  using existing technology. In commercial (and beyond line of sight operations including long range FPV) Drones may require GPS in order to pinpoint their location. In non commercial use, Drone location would be within line of sight of the pilot.
 
-In this proposal the additional cost to individuals and authorities would be greatly reduced. Costs to individual pilots being estimated at approximately €20, €10 for phone app and €10 for Bluetooth module. These estimated reflect current prices for similar phone apps and actual Bluetooth devices.
-The costs to authorities would be minimal as the required technology and infrastructure already exists. As far as an individuals security is concerned, nothing would change.
+In this proposal the additional cost to individuals and authorities would be greatly reduced. Costs to individual pilots being estimated at approximately €20, €10 for phone app and €10 for Bluetooth module. These estimated reflect current prices for similar phone apps and actual Bluetooth devices. The costs to authorities would be minimal as the required technology and infrastructure already exists. As far as an individuals security is concerned, nothing would change.
 
 
 ***Advantages:***
@@ -23,7 +22,7 @@ Existing technologies allow for locating the pilot/drone by the relevant authori
 ***Summation:***
 
 Basically there is no need to log and register every drone a person owns, simply register the pilot.
-There's no need for additional complex and costly infrastructure...
+There's no need for additional complex and costly infrastructure.
 A simple low cost method and infrastructure already exists, why reinvent the wheel...
 
 Identifying a drone can be achieved using a low cost methods available world wide, that is, almost every drone pilot has a mobile phone running Android or IOS and in incorporates Bluetooth (several existing RC controllers already support Bluetooth). At most a Bluetooth module will required, it should cost less than €10/$10 (ESP32 anyone)...
